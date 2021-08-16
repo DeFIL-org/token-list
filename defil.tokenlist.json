@@ -9,12 +9,20 @@
     "timestamp": "2021-08-10T00:00:00.000+00:00",
     "tokens": [
       {
-      "chainId": 1,
-      "address": "0x09ce2B746C32528B7d864A1e3979Bd97d2f095AB",
-      "name": "DeFIL-V2",
-      "symbol": "DFL",
-      "decimals": 18,
-      "logoURI": "https://defil.org/token/DFL.png"
+        "chainId": 1,
+        "address": "0x09ce2B746C32528B7d864A1e3979Bd97d2f095AB",
+        "name": "DeFIL-V2",
+        "symbol": "DFL",
+        "decimals": 18,
+        "logoURI": "https://defil.org/token/DFL.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x22B475f3e93390b7E523873ad7073337f4E56C2c",
+        "name": "Ethereum FIL",
+        "symbol": "eFIL",
+        "decimals": 18,
+        "logoURI": "https://defil.org/token/eFIL.png"
       }
     ],
     "version": {
