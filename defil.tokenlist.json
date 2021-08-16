@@ -1,0 +1,25 @@
+{
+  "name": "DeFIL",
+  "logoURI": "https://defil.org/token/DFL.png",
+  "keywords": [
+      "defil",
+      "DFL",
+      "FIL"
+    ],
+    "timestamp": "2021-08-10T00:00:00.000Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x09ce2B746C32528B7d864A1e3979Bd97d2f095AB",
+      "name": "DeFIL-V2",
+      "symbol": "DFL",
+      "decimals": 18,
+      "logoURI": "https://defil.org/token/DFL.png"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+}
